@@ -1,0 +1,40 @@
+{
+  "loading": "Loading web activity data…",
+
+  "tab.keystrokes": "Keystrokes",
+  "tab.mouseClicks": "Mouse Clicks",
+  "tab.mouseMoves": "Mouse Moves",
+  "tab.mouseUps": "Mouse Ups",
+  "tab.searchs": "Searches",
+  "tab.tabs": "Tabs",
+
+  "col.browser": "Browser",
+  "col.pageUrl": "Page URL",
+  "col.pageTitle": "Page Title",
+  "col.keyValue": "Key Value",
+  "col.mouseClickButton": "Click Button",
+  "col.xPage": "X Page",
+  "col.yPage": "Y Page",
+  "col.xClient": "X Client",
+  "col.yClient": "Y Client",
+  "col.xScreen": "X Screen",
+  "col.yScreen": "Y Screen",
+  "col.xMovement": "X Movement",
+  "col.yMovement": "Y Movement",
+  "col.selectedText": "Selected Text",
+  "col.search": "Search",
+  "col.tabUrl": "Tab URL",
+  "col.tabTitle": "Tab Title",
+  "col.actionType": "Action Type",
+  "col.tabIndex": "Tab Index",
+  "col.tabId": "Tab ID",
+  "col.windowId": "Window ID",
+  "col.captureTimestamp": "Capture Timestamp",
+
+  "leftMouseClickValue": "Left",
+  "centerMouseClickValue": "Center",
+  "rightMouseClickValue": "Right",
+
+  "preview.title": "Web Activity Visualization",
+  "preview.description": "Displays web browsing events (keystrokes, mouse, searches, tabs) from a local capture file produced by the browser extension plugin."
+}

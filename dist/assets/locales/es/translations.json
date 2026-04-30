@@ -1,0 +1,40 @@
+{
+  "loading": "Cargando datos de actividad web…",
+
+  "tab.keystrokes": "Teclas presionadas",
+  "tab.mouseClicks": "Clicks Mouse",
+  "tab.mouseMoves": "Movimientos Mouse",
+  "tab.mouseUps": "Selecciones Mouse",
+  "tab.searchs": "Búsquedas",
+  "tab.tabs": "Pestañas",
+
+  "col.browser": "Navegador",
+  "col.pageUrl": "URL Página",
+  "col.pageTitle": "Título Página",
+  "col.keyValue": "Valor Tecla",
+  "col.mouseClickButton": "Botón Click",
+  "col.xPage": "X Página",
+  "col.yPage": "Y Página",
+  "col.xClient": "X Cliente",
+  "col.yClient": "Y Cliente",
+  "col.xScreen": "X Pantalla",
+  "col.yScreen": "Y Pantalla",
+  "col.xMovement": "X Movimiento",
+  "col.yMovement": "Y Movimiento",
+  "col.selectedText": "Texto seleccionado",
+  "col.search": "Búsqueda",
+  "col.tabUrl": "URL pestaña",
+  "col.tabTitle": "Título pestaña",
+  "col.actionType": "Tipo acción",
+  "col.tabIndex": "Índice pestaña",
+  "col.tabId": "ID pestaña",
+  "col.windowId": "ID ventana",
+  "col.captureTimestamp": "Tiempo de captura",
+
+  "leftMouseClickValue": "Izquierdo",
+  "centerMouseClickValue": "Central",
+  "rightMouseClickValue": "Derecho",
+
+  "preview.title": "Visualización de Actividad Web",
+  "preview.description": "Muestra eventos de navegación web (teclas, mouse, búsquedas, pestañas) desde un archivo de captura local generado por el plugin de extensión del navegador."
+}

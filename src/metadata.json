@@ -1,0 +1,31 @@
+{
+  "id": "web_activity_visualization_playback",
+  "name": "Web Activity Playback",
+  "description": "Visualizes web browsing activity events from a local capture file produced by the web browsing activity capture plugin.",
+  "version": "0.1.0",
+  "publisher": {
+    "id": "mo",
+    "name": "Multimodal Observer",
+    "url": ""
+  },
+  "repository": "",
+  "author": {
+    "name": "Camila Carabajal",
+    "email": "camila.carabajal@usach.cl"
+  },
+  "icon": {
+    "light": "assets/icons/light.svg",
+    "dark": "assets/icons/dark.svg"
+  },
+  "locales": "assets/locales",
+  "platform": {
+    "linux": true,
+    "windows": true,
+    "mac": true
+  },
+  "entryPoints": {
+    "mo.ui.renderer.plugin": "main.js",
+    "mo.ui.renderer.plugin.properties": "properties.js"
+  },
+  "target": "ui"
+}
