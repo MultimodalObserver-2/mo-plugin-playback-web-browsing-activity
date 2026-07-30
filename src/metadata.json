@@ -4,9 +4,9 @@
   "description": "Visualizes web browsing activity events from a local capture file produced by the web browsing activity capture plugin.",
   "version": "0.1.0",
   "publisher": {
-    "id": "mo",
-    "name": "Multimodal Observer",
-    "url": ""
+    "id": "interaction-lab",
+    "name": "InTeractiOn Lab",
+    "url": "https://interaction-lab.info"
   },
   "repository": "",
   "author": {
